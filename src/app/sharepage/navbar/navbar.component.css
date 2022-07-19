@@ -1,0 +1,12 @@
+.navbar-light .navbar-nav .nav-link {
+    color: var(--secondary-color);
+}
+
+.navbar-light .navbar-nav .nav-link .active-link{
+    background-color: var(--primary-color);
+    text-decoration: underline;
+}
+
+.navbar{
+    border-bottom: 1px #000 solid;
+}
